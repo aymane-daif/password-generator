@@ -7,6 +7,7 @@
 ---
 
 ![Screenshot](/Capture.PNG)
+
 This app generates a random password based on what types of chars you want to, also you can provide the length of your password.👀
 
 ---
@@ -14,6 +15,7 @@ This app generates a random password based on what types of chars you want to, a
 ---
 
 ![Screenshot](/Capture2.PNG)
+
 You can also click at your given password and it will be copied directly to your clipboard.✔
 
 ## Usage
